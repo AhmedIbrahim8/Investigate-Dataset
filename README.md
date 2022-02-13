@@ -7,3 +7,6 @@ You will need an installation of Python, plus the following libraries:
 * NumPy<br/>
 * Matplotlib<br/>
 * csv<br/>
+In this project, we'll go through the data analysis process and see how everything fits together.<br/>
+we'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!<br/>
+
