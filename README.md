@@ -1,3 +1,3 @@
 # Investigate-Dataset
 # Udacity--Project-Investigate-TMDB-Movies-Dataset
-In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+In this project, we have to analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
